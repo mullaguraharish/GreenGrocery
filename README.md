@@ -24,8 +24,8 @@ updating these products on the website.
 
 For more details about the project please refer to [**"Green Grocery Documentation.pdf"**][1] and [**"Green Grocery PPT.pdf"**][2]
 
-[1]: https://github.com/anirudhjak06/GreenGrocery/blob/main/Green%20Grocery%20Documentation.pdf "Title"
-[2]: https://github.com/anirudhjak06/GreenGrocery/blob/main/Green%20Grocery%20PPT.pdf "Title"
+[1]: https://github.com/mullaguraharish/GreenGrocery/blob/main/Green%20Grocery%20Documentation.pdf "Title"
+[2]: https://github.com/mullaguraharish/GreenGrocery/blob/main/Green%20Grocery%20PPT.pdf "Title"
 
 
 ## Get Started
@@ -92,9 +92,9 @@ The API will run in the http://localhost:5000/ for the backend part and connceti
 ## Group Members
 
 <pre>
-Anirudh Jakhotia          - S20190010007
-Neeraj Dusa               - S20190010047
 Harish Mullagura          - S20190010124
+Neeraj Dusa               - S20190010047
+Anirudh Jakhotia          - S20190010007
 Rakesh Ganeshula          - S20190010052
 Kanduri Jayanth Sri Ram   - S20190010084
 </pre>
