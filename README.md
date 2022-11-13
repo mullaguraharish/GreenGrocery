@@ -16,7 +16,7 @@ Farmers can sell fruits, vegetables, and dairy products at fair market prices on
 
 ## Project Overall Idea
 - Farmers can contact the GreenGrocery website and can sell their vegetables, fruits, and dairy products at fair prices.
-- The process includes, firstly, the delivery guy picks their products and the management staff is responsible for
+- The process includes the delivery guy by picking their products and the management staff is responsible for
 updating these products on the website.
 - Users can log in to the website and can buy organic fruits, vegetables, and dairy products which are very fresh and healthy that come directly from farmers.
 - Users can then select their required products and the respective quantity of each product and add them to the cart. After adding to the cart, the user can checkout and fill in the shipping details, and enter payment details.
